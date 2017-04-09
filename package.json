@@ -1,0 +1,11 @@
+{
+  "name": "gtube-snippets",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+
+  },
+  "dependencies": {    
+    "websocket": "^1.0.24",
+  }
+}
