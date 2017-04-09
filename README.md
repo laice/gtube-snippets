@@ -1,2 +1,2 @@
 # gtube-snippets
-collection of modular code for goontube that could be used for a bot or custom client
+collection of code for node that could be used for a bot or custom client
